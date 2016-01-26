@@ -1,1 +1,24 @@
-h2 { font-size: 200%; background-color: red; } h1 { font-size: 200%; background-color: red; } p1 { background-color: yellow; border: 1px solid black; } p2 { background-color: yellow; border: 1px solid black; 
+h2 {
+    font-size: 200%;
+    background-color: red;
+    }
+h1 {
+    font-size: 200%;
+    background-color: red;
+    }
+p1 {
+    background-color: yellow;
+    }
+p2 {
+    background-color: yellow;
+    }
+h3	{
+    font-size: 200%;
+    background-color: red;
+    }
+p3 {
+    background-color: yellow;
+	}
+body {
+    background-image: url("http://1.bp.blogspot.com/-NzuxzU97fD0/Th9YitZYxUI/AAAAAAAALPI/b8gUKkLSRJg/s1600/Abstracte-patroon-achtergronden-patroon-wallpapers-afbeeldingen-28.jpg");
+}
