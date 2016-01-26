@@ -8,25 +8,21 @@ h1 {
     }
 p1 {
     background-color: yellow;
-    
+    text-align: left;
     }
 p2 {
     background-color: yellow;
-    
+    text-align: left;
     }
 h3	{
     font-size: 200%;
-    text-align: center;
+    text-align: left;
     }
 p3 {
     background-color: yellow;
-   
+   text-align: left;
 	}
 body {
     background-image: url("http://1.bp.blogspot.com/-NzuxzU97fD0/Th9YitZYxUI/AAAAAAAALPI/b8gUKkLSRJg/s1600/Abstracte-patroon-achtergronden-patroon-wallpapers-afbeeldingen-28.jpg");
 }
-img {
-	margin: auto;
-    width: 100%;
-}
-}
+
