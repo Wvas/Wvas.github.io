@@ -8,9 +8,11 @@ h1 {
     }
 p1 {
     background-color: yellow;
+    position: relative;
     }
 p2 {
     background-color: yellow;
+    position: relative;
     }
 h3	{
     font-size: 200%;
@@ -18,6 +20,7 @@ h3	{
     }
 p3 {
     background-color: yellow;
+    position: relative;
 	}
 body {
     background-image: url("http://1.bp.blogspot.com/-NzuxzU97fD0/Th9YitZYxUI/AAAAAAAALPI/b8gUKkLSRJg/s1600/Abstracte-patroon-achtergronden-patroon-wallpapers-afbeeldingen-28.jpg");
